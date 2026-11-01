@@ -4,6 +4,8 @@ Two ready-to-import n8n workflows that let n8n's AI Agent schedule and publish s
 The agent gets one tool, the **MCP Client Tool**, connected to [Unsora](https://tryunsora.com), a social media
 scheduler for AI agents. You ask "Schedule this to LinkedIn and Bluesky for tomorrow at 9:00 am", and it does.
 
+**Video walkthrough:** [n8n Social Media Automation: Full Walkthrough (2026)](https://youtu.be/rS5h8UqJC0k), the whole build from an empty canvas to a live post.
+
 | File | Trigger | Use it when |
 | --- | --- | --- |
 | [`n8n-social-media-automation-chat.json`](n8n-social-media-automation-chat.json) | When chat message received | you want to ask the agent to post, in n8n's chat |
